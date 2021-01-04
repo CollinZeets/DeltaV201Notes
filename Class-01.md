@@ -1,5 +1,5 @@
 [Table of Contents](README.md)
-# Notes for Reaing 01
+# Notes for Reading 01
 ## Topic Summarys
 -  Structure summary... opening tags carry attributes which tell us more about the content of that element. Attributes require a name and a value. Tags are referred to as elements. HTML uses tags to give information they surround special meaning.
 - Extra Markup summary... the id and class attibutes allow you to identify particular elements. iframes cut windows into your web pages through which other pages can be displayed. Escape characters are used to include special characters in your pages.
