@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 # 5 types of Markdown 
 # This is an <h1> tag
 ## This is an <h2> tag
