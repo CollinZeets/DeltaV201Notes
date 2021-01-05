@@ -3,3 +3,4 @@
 ## Table of Contents
 - [Lab:01a - Notes](Lab01Notes.md) 
 - [Read:01 - Introductory HTMl and JavaScript](Class-01.md)
+- [Read:02 - HTML Text, CSS Introduction and Basic Java Script Instructions](Class-02.md)
