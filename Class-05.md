@@ -1,0 +1,6 @@
+[Table of Contents](README.md)
+# Notes for Reading 05
+## Topic Summary
+- Images summary... The <img> element is used to add images to a web page. You should save images at the size you will be using them on the web page and in the appropriate format. Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
+- Color summary... Color not only brings your site to life, but also helps convey the mood and evokes reactions. Color pickers can help you find the color you want. CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA. 
+- Text summary... There is a limited choice of fonts that you can assume most people will have installed. You can control the space between lines of text, individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented. You can use pseudo-classes to change the style of an element when a user hovers over or clicks on text, or when they have visited a link.
