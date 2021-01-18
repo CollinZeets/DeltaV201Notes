@@ -9,3 +9,4 @@
 - [Read:05 - HTML Images; CSS Color & Text](Class-05.md)
 - [Read:06 - JS Object Literals; The DOM](Class-06.md)
 - [Read:07 - HTML Tables; JS Constructor Functions](Class-07.md)
+- [Read: 08 - More CSS Layout](Class-08.md)
