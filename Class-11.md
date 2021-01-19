@@ -1,0 +1,5 @@
+[Table of Contents](README.md)
+# Notes for Reading 11
+## Topic Summarys 
+- Images summary... You can specify the dimensions of images using CSS.This is very helpful when you use the same sized images on several pages of your site. Images can be aligned both horizontally and vertically using CSS. You can use background image behind the box created by any element on a page. Background images can appear just once or be repeated across the background of the box.
+- Practical Information summary... To put your site on the web, you will need to obtain a domain name and web hosting. FTP programs allow you to transfer files from your local computer to your web server. Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
