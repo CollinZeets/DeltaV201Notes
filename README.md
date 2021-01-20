@@ -10,3 +10,8 @@
 - [Read:06 - JS Object Literals; The DOM](Class-06.md)
 - [Read:07 - HTML Tables; JS Constructor Functions](Class-07.md)
 - [Read: 08 - More CSS Layout](Class-08.md)
+- [Read: 09 - Forms and Events](Class-09.md)
+- [Read: 10 - JS Debugging](Class-10.md)
+- [Read: 11 - Assorted Topics](Class-11.md)
+- [Read: 12 - Docs for the HTML <canvas> Element & Chart.js](Class-12.md)
+- [Read: 13 - Local Storage](Class-13.md)(Class-13.md)
